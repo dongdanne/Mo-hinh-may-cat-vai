@@ -66,6 +66,4 @@ Danh sách linh kiện và thông số kỹ thuật sẽ được cập nhật k
 
 Trong các giai đoạn tiếp theo, dự án hướng đến việc cải thiện độ chính xác khi cấp vải, nâng cao độ ổn định của cơ cấu cắt, bổ sung chức năng điều chỉnh chiều dài cắt và tăng cường các tính năng an toàn.
 
-## 9. Tác giả
 
-Dự án học tập thuộc lĩnh vực Cơ điện tử, tập trung vào thiết kế cơ khí, điều khiển tự động và lập trình vi điều khiển.
